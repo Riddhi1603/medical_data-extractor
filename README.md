@@ -43,7 +43,7 @@ pip install pdf2image==1.10.0 pytesseract==0.3.0 opencv_python==4.1.2.30 numpy==
    - The API is published on the web and can be interacted with using Postman. Postman can be used to send requests to the API endpoints and receive the extracted medical data in response.
 
 ## Usage
-![Output Image 1](./images/riddhi.png)
+
 
 1. Install the required dependencies as mentioned above.
 
