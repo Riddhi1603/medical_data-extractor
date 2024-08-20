@@ -41,6 +41,7 @@ pip install pdf2image==1.10.0 pytesseract==0.3.0 opencv_python==4.1.2.30 numpy==
 
 6. **Publication with Postman:**
    - The API is published on the web and can be interacted with using Postman. Postman can be used to send requests to the API endpoints and receive the extracted medical data in response.
+![image](https://github.com/user-attachments/assets/b0cb6f5f-d1b3-4351-b234-9e2fcbca9210)
 
 ## Usage
 
